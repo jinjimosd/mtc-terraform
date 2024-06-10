@@ -1,0 +1,5 @@
+github_token = ""
+github_owner = "jinjimosd"
+tfe_token = ""
+aws_access_key_id = ""
+aws_access_secret_key = ""
